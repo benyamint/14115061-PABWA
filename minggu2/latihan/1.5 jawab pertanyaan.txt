@@ -1,0 +1,15 @@
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda,
+Pernakah terjadi error ketika ada kesalahan kode?
+Pernah terjadi karena lupa id/syntax yang sudah didefiniskan sebelumnya
+
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH"
+content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan
+apa diantara kegunaan meta dokumen?
+Halaman akan direfresh selama 5s dan fungsi dari meta refresh yaitu untuk merefesh halaman
+
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+	thead : konten yang terdapat pada bagian atas atau lebih dikenal judul(kepala konten)
+	tbody : isi dari sebuah konten (tabel) 
+	tr : menunjukkan baris sebuah table
+	th : menunjuk judul sebuah table
+	td : membuat isi dari th

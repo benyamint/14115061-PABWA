@@ -1,0 +1,28 @@
+body{
+	background: ##006400;
+	font-family: roboto;
+	text-align: center;
+}
+
+h1{
+	color: #fff;
+}
+
+.gradientt{
+	
+	width: 1024px;
+}
+
+.kotak{
+	background: orange;
+	width: 1024px;
+	float: left;
+	height: 100px;
+	margin: 15px;
+}
+.gradient {
+	background: linear-gradient(black, blue);
+	background: -webkit-linear-gradient(blue, white);
+	background: -o-linear-gradient(blue, white);
+	background: -moz-linear-gradient(blue, white);
+}
