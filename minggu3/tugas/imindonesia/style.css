@@ -1,0 +1,50 @@
+.container{
+width:951px;
+margin:0 auto;
+
+
+}
+body{
+
+
+}
+
+#apDiv6{
+border:5px solid #CCCCCC;
+-moz-border-radius:4px;
+-khtml-border-radius:4px 4px 4px 4px;
+-webkit-border-radius:4px 4px 4px 4px;
+border-radius:4px 4px 4px 4px;
+
+}
+#apDiv9{
+font-family:Impact;
+
+}
+#apDiv11{
+background:url(images/5-Retro-Floral-Patterns-thumb02.jpg);
+border-top:#000000;
+
+}
+#apDiv12{
+border:5px solid #FFFFFF;
+-moz-border-radius:4px;
+-khtml-border-radius:4px 4px 4px 4px;
+-webkit-border-radius:4px 4px 4px 4px;
+border-radius:4px 4px 4px 4px;
+-moz-box-shadow: 0 0 5px 5px#444;
+-webkit-box-shadow: 0 0 5px 5px#444;
+box-shadow: 0 0 5px 5px #444;
+
+}
+#apDiv16{
+border:5px solid #FFFFFF;
+-moz-border-radius:4px;
+-khtml-border-radius:4px 4px 4px 4px;
+-webkit-boeder-radius:4px 4px 4px 4px;
+border-radius:4px 4px 4px 4px;
+-moz-box-shadow:0 0 5px 5px#444;
+-webkit-box-shadow: 0 0 5px 5px#444;
+box-shadow: 0 0 5px 5px #444;
+
+}
