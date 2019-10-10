@@ -1,0 +1,1 @@
+maksud dari nested property yaitu memberikan estetika pada tampilan (variasi) dalam html

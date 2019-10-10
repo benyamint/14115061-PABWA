@@ -1,0 +1,2 @@
+SASS diawali dengan syntax $, dan dilanjutkan memasukkan nama variable pada (insiasi). 
+SASS digunakan untuk menyimpan nilai, teks. ukuran elemen, url gambar dan lainnya. (membuat variasi tampilan)
